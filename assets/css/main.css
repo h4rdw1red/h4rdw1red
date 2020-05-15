@@ -374,6 +374,7 @@ input, select, textarea {
 		text-align: center;
 		top: 0;
 		width: 100%;
+		background: #2874A6;
 	}
 
 		#main:before {
