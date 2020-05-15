@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.projects {
+	font-weight: 400;
+}
+
 /* Basic */
 
 	html {
